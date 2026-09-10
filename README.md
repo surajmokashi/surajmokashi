@@ -26,5 +26,3 @@ Kali | Burp Suite | Nmap | MISP | OpenCTI | TheHive
 
 📊 GitHub Stats
 
-📫 Connect With Me
-LinkedIn | GitHub
